@@ -1,1 +1,1 @@
-# Hemming_code_python
+Tkinter + python
